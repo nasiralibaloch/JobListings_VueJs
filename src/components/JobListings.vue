@@ -2,10 +2,7 @@
 import jobData from "@/jobs.json";
 import JobListing from "./JobListing.vue";
 import { ref, defineProps } from "vue";
-
 const jobs = ref(jobData);
-
-
 defineProps({
   limit: Number,
   showButton:{
