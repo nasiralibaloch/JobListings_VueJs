@@ -125,6 +125,48 @@
         "contactEmail": "cyba@mailinator.com",
         "contactPhone": "+1 (901) 821-4959"
       }
+    },
+    {
+      "id": "5e2e",
+      "type": "Full-Time",
+      "title": "Nasir Ali",
+      "location": "Saepe suscipit aperi",
+      "salary": "$80K - $90K",
+      "description": "Quisquam est molest",
+      "company": {
+        "name": "Taylor and Mcfadden Trading",
+        "description": "Et adipisci maxime e",
+        "contactEmail": "sevum@mailinator.com",
+        "contactPhone": "+1 (157) 976-6488"
+      }
+    },
+    {
+      "id": "fd14",
+      "type": "Full-Time",
+      "title": "Vue Dev",
+      "location": "Commodi ea sunt sit ",
+      "salary": "$70K - $80K",
+      "description": "Officia asperiores o",
+      "company": {
+        "name": "Casey and Nieves Plc",
+        "description": "Architecto eos conse",
+        "contactEmail": "jebitydaq@mailinator.com",
+        "contactPhone": "+1 (462) 605-2584"
+      }
+    },
+    {
+      "id": "059d",
+      "type": "Internship",
+      "title": "Laravel Dev",
+      "location": "Rerum ut et nemo acc",
+      "salary": "$125K - $150K",
+      "description": "Exercitation tempora",
+      "company": {
+        "name": "Dudley Pitts LLC",
+        "description": "Ullamco voluptate es",
+        "contactEmail": "dohob@mailinator.com",
+        "contactPhone": "+1 (816) 303-4043"
+      }
     }
   ]
 }
