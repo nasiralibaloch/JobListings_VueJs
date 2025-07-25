@@ -2,8 +2,12 @@
 import axios from "axios";
 import router from "@/Router";
 import { useToast } from "vue-toastification";
-import { reactive } from "vue";
+import { reactive,onMounted} from "vue";
+import { useRoute, useRouter } from "vue-router";
 
+const route = useRoute();
+const router = useRouter();
+const jobId = path.params.id;
 const form = reactive({
   type: "Full-Time",
   title: "",
@@ -17,6 +21,12 @@ const form = reactive({
     contactPhone: "",
   },
 });
+
+const state = reactive({
+  job: {},
+  isLoading:true
+});
+
 const toast = useToast();
 const handleSubmit = async () => {
   const newJob = {
@@ -33,14 +43,22 @@ const handleSubmit = async () => {
     },
   };
   try {
-    const response = await axios.put("/api/jobs/", newJob);
+    const response = await axios.post("/api/jobs/", newJob);
     // todo-
-    toast.success("Jobs Added Successfully", { type: "success"});
+    toast.success("Jobs Added Successfully", { type: "success" });
     router.push(`/jobs/${response.data.id}`);
   } catch (error) {
     console.log("Error fetching jobs", error);
   }
 };
+onMounted(async() => {
+    try {
+        const response= await axios.get(`/api/jobs/${jobId}`);
+        state.job=response.data;    
+    } catch (error) {
+        
+    }
+});
 </script>
 <template>
   <section class="bg-green-50">
