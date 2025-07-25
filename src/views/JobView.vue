@@ -5,6 +5,7 @@ import PulseLoader from "vue-spinner/src/PulseLoader.vue";
 import { useToast } from "vue-toastification";
 import BackButton from "@/components/BackButton.vue";
 import axios from "axios";
+import Swal from 'sweetalert2';
 
 const route = useRoute();
 const router = useRouter();
