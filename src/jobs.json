@@ -1,20 +1,6 @@
 {
   "jobs": [
     {
-      "id": "1",
-      "title": "Senior Vue Developer",
-      "type": "Full-Time",
-      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as Vue or Angular.",
-      "location": "Boston, MA",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "NewTek Solutions",
-        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
-        "contactEmail": "contact@teksolutions.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
       "id": "2",
       "title": "Front-End Engineer (Vue)",
       "type": "Full-Time",
@@ -57,115 +43,17 @@
       }
     },
     {
-      "id": "5",
-      "title": "Full Stack Vue Developer",
-      "type": "Full-Time",
-      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
-      "location": "Atlanta, GA",
-      "salary": "$90K - $100K",
-      "company": {
-        "name": "Browning Technologies",
-        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
-        "contactEmail": "contact@consecteturadipisicing.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
-      "id": "6",
-      "title": "Vue Native Developer",
-      "type": "Full-Time",
-      "description": "Join our team as a Front-End Developer in beautiful Portland, OR. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
-      "location": "Portland, OR",
-      "salary": "$100K - $110K",
-      "company": {
-        "name": "Port Solutions INC",
-        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
-        "contactEmail": "contact@ipsumlorem.com",
-        "contactPhone": "555-555-5555"
-      }
-    },
-    {
-      "id": "2991",
+      "id": "d434",
       "type": "Remote",
-      "title": "Cally Beasley",
-      "location": "Voluptas omnis deser",
+      "title": "Senior AI Engineer",
+      "location": "Et et in nemo et eni",
       "salary": "$150K - $175K",
-      "description": "Irure veniam do dol",
+      "description": "Iure perferendis id ",
       "company": {
-        "name": "Wagner and Watts Trading",
-        "description": "Nihil exercitationem",
-        "contactEmail": "mysysycup@mailinator.com",
-        "contactPhone": "+1 (486) 185-1881"
-      }
-    },
-    {
-      "id": "3cfd",
-      "type": "Internship",
-      "title": "Amery Mccullough",
-      "location": "Nobis dolor exercita",
-      "salary": "$175K - $200K",
-      "description": "Aut tempore sed per",
-      "company": {
-        "name": "Patterson and Nieves Trading",
-        "description": "Veniam est fugiat",
-        "contactEmail": "minev@mailinator.com",
-        "contactPhone": "+1 (903) 193-8027"
-      }
-    },
-    {
-      "id": "351e",
-      "type": "Part-Time",
-      "title": "Levi Beard",
-      "location": "Ullamco ",
-      "salary": "$90K - $100K",
-      "description": "Lorem incididunt cum jlwaDNKndknwklfnkghghedghfhhehebhb",
-      "company": {
-        "name": "Ayala and Booth LLC ",
-        "description": "Voluptates lorem dol",
-        "contactEmail": "cyba@mailinator.com",
-        "contactPhone": "+1 (901) 821-4959"
-      }
-    },
-    {
-      "id": "5e2e",
-      "type": "Full-Time",
-      "title": "Nasir Ali",
-      "location": "Saepe suscipit aperi",
-      "salary": "$80K - $90K",
-      "description": "Quisquam est molest",
-      "company": {
-        "name": "Taylor and Mcfadden Trading",
-        "description": "Et adipisci maxime e",
-        "contactEmail": "sevum@mailinator.com",
-        "contactPhone": "+1 (157) 976-6488"
-      }
-    },
-    {
-      "id": "fd14",
-      "type": "Full-Time",
-      "title": "Vue Dev",
-      "location": "Commodi ea sunt sit ",
-      "salary": "$70K - $80K",
-      "description": "Officia asperiores o",
-      "company": {
-        "name": "Casey and Nieves Plc",
-        "description": "Architecto eos conse",
-        "contactEmail": "jebitydaq@mailinator.com",
-        "contactPhone": "+1 (462) 605-2584"
-      }
-    },
-    {
-      "id": "059d",
-      "type": "Internship",
-      "title": "Laravel Dev",
-      "location": "Rerum ut et nemo acc",
-      "salary": "$125K - $150K",
-      "description": "Exercitation tempora",
-      "company": {
-        "name": "Dudley Pitts LLC",
-        "description": "Ullamco voluptate es",
-        "contactEmail": "dohob@mailinator.com",
-        "contactPhone": "+1 (816) 303-4043"
+        "name": "Britt and Compton Traders",
+        "description": "Aliquid in praesenti",
+        "contactEmail": "sycoq@mailinator.com",
+        "contactPhone": "+1 (615) 751-7512"
       }
     }
   ]
